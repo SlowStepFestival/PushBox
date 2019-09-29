@@ -6,7 +6,9 @@ import javax.sound.midi.*;
 import java.util.Stack;
 
 public class PushBox {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+
+    {
         new mainFrame();
     }
 }
